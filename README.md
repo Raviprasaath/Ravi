@@ -1,6 +1,6 @@
 # Personal Portfolio ⚡️ 
 
-> https://ravi-portfolio-two.vercel.app/
+> https://ravi-omega.vercel.app/
 
 ## Sections 📚
 ✔️ About me\
